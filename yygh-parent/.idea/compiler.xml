@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hospitalmanage" />
+        <module name="model" />
+        <module name="servergateway" />
+        <module name="serviceclient" />
+        <module name="serviceutil" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.8" />
+      <module name="commonutil" target="1.8" />
+      <module name="hospitalmanage" target="1.8" />
+      <module name="model" target="1.8" />
+      <module name="servergateway" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="serviceclient" target="1.8" />
+      <module name="serviceuser" target="1.8" />
+      <module name="serviceutil" target="1.8" />
+      <module name="yygh-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common" options="-parameters" />
+      <module name="hospitalmanage" options="-parameters" />
+      <module name="model" options="-parameters" />
+      <module name="servergateway" options="-parameters" />
+      <module name="service" options="-parameters" />
+      <module name="serviceclient" options="-parameters" />
+      <module name="serviceuser" options="" />
+      <module name="serviceutil" options="-parameters" />
+      <module name="yygh-parent" options="-parameters" />
+    </option>
+  </component>
+</project>
