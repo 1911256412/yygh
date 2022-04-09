@@ -1,4 +1,0 @@
-server:
-  port: 8022
-  servlet:
-    context-path: /myboot1
