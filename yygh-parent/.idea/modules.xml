@@ -3,14 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common/common-util/commonutil.iml" filepath="$PROJECT_DIR$/common/common-util/commonutil.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hospital-manage/hospitalmanage.iml" filepath="$PROJECT_DIR$/hospital-manage/hospitalmanage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common-util/common-util.iml" filepath="$PROJECT_DIR$/common/common-util/common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hospital-manage/hospital-manage.iml" filepath="$PROJECT_DIR$/hospital-manage/hospital-manage.iml" />
       <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/server-gateway/servergateway.iml" filepath="$PROJECT_DIR$/server-gateway/servergateway.iml" />
-      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/service-client/serviceclient.iml" filepath="$PROJECT_DIR$/service-client/serviceclient.iml" />
-      <module fileurl="file://$PROJECT_DIR$/service/service-user/serviceuser.iml" filepath="$PROJECT_DIR$/service/service-user/serviceuser.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common/service-util/serviceutil.iml" filepath="$PROJECT_DIR$/common/service-util/serviceutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-gateway/server-gateway.iml" filepath="$PROJECT_DIR$/server-gateway/server-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service (1).iml" filepath="$PROJECT_DIR$/service/service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service-user/service (2).iml" filepath="$PROJECT_DIR$/service/service-user/service (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-client/service-client.iml" filepath="$PROJECT_DIR$/service-client/service-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service-hosp/service-hosp.iml" filepath="$PROJECT_DIR$/service/service-hosp/service-hosp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/service-util/service-util.iml" filepath="$PROJECT_DIR$/common/service-util/service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_cnm/service_cnm.iml" filepath="$PROJECT_DIR$/service/service_cnm/service_cnm.iml" />
       <module fileurl="file://$PROJECT_DIR$/yygh-parent.iml" filepath="$PROJECT_DIR$/yygh-parent.iml" />
     </modules>
   </component>

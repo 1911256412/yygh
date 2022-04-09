@@ -26,6 +26,13 @@
             <artifactId>mybatis-plus-boot-starter</artifactId>
             <scope>provided </scope>
         </dependency>
+
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>easyexcel</artifactId>
+            <scope>provided </scope>
+        </dependency>
+
         <!--swagger-->
         <dependency>
             <groupId>io.springfox</groupId>

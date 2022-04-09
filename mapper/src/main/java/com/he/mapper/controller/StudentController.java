@@ -27,10 +27,12 @@ public class StudentController {
     @RequestMapping("/user1")
     @ResponseBody
     public String add(Student student) {
-      int rows = studentservice.addStudent(student);
-        return "添加"+rows;
+        int rows = studentservice.addStudent(student);
+        return "添加" + rows;
 
     }
+
+
 
 
 }
