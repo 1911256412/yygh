@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common-util/common-util.iml" filepath="$PROJECT_DIR$/common/common-util/common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hospital-manage/hospital-manage.iml" filepath="$PROJECT_DIR$/hospital-manage/hospital-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/rabbitmq_util/rabbitmq_util.iml" filepath="$PROJECT_DIR$/common/rabbitmq_util/rabbitmq_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-gateway/server-gateway.iml" filepath="$PROJECT_DIR$/server-gateway/server-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service (1).iml" filepath="$PROJECT_DIR$/service/service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-client/service-client.iml" filepath="$PROJECT_DIR$/service-client/service-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service-hosp/service-hosp.iml" filepath="$PROJECT_DIR$/service/service-hosp/service-hosp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/service-util/service-util.iml" filepath="$PROJECT_DIR$/common/service-util/service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-client/service_cmn_client/service_cmn_client.iml" filepath="$PROJECT_DIR$/service-client/service_cmn_client/service_cmn_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_cnm/service_cnm.iml" filepath="$PROJECT_DIR$/service/service_cnm/service_cnm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-client/service_hosp_client/service_hosp_client.iml" filepath="$PROJECT_DIR$/service-client/service_hosp_client/service_hosp_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_msm/service_msm.iml" filepath="$PROJECT_DIR$/service/service_msm/service_msm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_order/service_order.iml" filepath="$PROJECT_DIR$/service/service_order/service_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-client/service_order_client/service_order_client.iml" filepath="$PROJECT_DIR$/service-client/service_order_client/service_order_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_oss/service_oss.iml" filepath="$PROJECT_DIR$/service/service_oss/service_oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_statistics/service_statistics.iml" filepath="$PROJECT_DIR$/service/service_statistics/service_statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_task/service_task.iml" filepath="$PROJECT_DIR$/service/service_task/service_task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_user/service_user.iml" filepath="$PROJECT_DIR$/service/service_user/service_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-client/service_user_client/service_user_client.iml" filepath="$PROJECT_DIR$/service-client/service_user_client/service_user_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yygh-parent.iml" filepath="$PROJECT_DIR$/yygh-parent.iml" />
+    </modules>
+  </component>
+</project>
